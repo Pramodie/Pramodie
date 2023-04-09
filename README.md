@@ -1,4 +1,4 @@
-<h1 align="center">Freelancer, .NET Developer</h1>
+<h1 align="center">Freelancer / .NET Developer</h1>
 
 
 - 🔭 I’m currently working on .NET Core Technologies.
