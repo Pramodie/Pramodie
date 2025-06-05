@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on .NET Core Technologies.
-- 🌱 I’m currently learning Search Engine Optimization.
+
 
 ## ⚡ Technologies
 
